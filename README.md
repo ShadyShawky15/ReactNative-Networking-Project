@@ -1,3 +1,7 @@
+# This is mini proj for Adding new posts & fetch posts using through useEffect & useState & handling refresh & loading and error
+# Achieveing that with sample attractive UI
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
