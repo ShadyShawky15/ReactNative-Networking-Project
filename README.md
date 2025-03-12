@@ -1,4 +1,4 @@
-# This is mini proj for Adding new posts & fetch posts using through useEffect & useState & handling refresh & loading and error
+# This is mini proj for Adding new posts , fetch posts , handling refresh , loading & error
 # Achieveing that with sample attractive UI
 
 
